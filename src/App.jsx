@@ -16,7 +16,7 @@ import  Orders from './Component/Orders';
 import  Products from './Component/Products'; 
 export default function App() {
   let rouets = createBrowserRouter([{
-    path:'/',element:<Layout></Layout>,children:[
+    path:'/Fresh-market/',element:<Layout></Layout>,children:[
       {index:true,element:<ProtectedRoute><Home></Home></ProtectedRoute>},
       {path:'/login',element:<Login></Login>},
       {path:'/register',element:<Register></Register>},
