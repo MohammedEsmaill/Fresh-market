@@ -11,7 +11,7 @@ import  ForgetPassword from './Component/ForgetPassword';
 import  ProtectedRoute from './Component/ProtectedRoute'; 
 import  ResetCode from './Component/RsetCode'; 
 import  ResetPassword from './Component/ResetPassword'; 
-import  ProductsDetails from './Component/productsDetails'; 
+import  ProductsDetails from './Component/ProductsDetails'; 
 import  Orders from './Component/Orders'; 
 import  Products from './Component/Products'; 
 export default function App() {
