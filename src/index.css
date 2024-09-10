@@ -121,4 +121,5 @@ a , a:hover{
     flex-direction: column;
     min-height: 100vh;
     justify-content: space-between;
+    overflow-y: hidden;
 }
