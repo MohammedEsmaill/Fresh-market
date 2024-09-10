@@ -7,7 +7,7 @@ import  Register from './Component/Register';
 import  Brand from './Component/Brand'; 
 import  Cart from './Component/Cart'; 
 import  Erorr from './Component/Erorr'; 
-import  ForgetPassword from './Component/forgetPassword'; 
+import  ForgetPassword from './Component/ForgetPassword'; 
 import  ProtectedRoute from './Component/ProtectedRoute'; 
 import  ResetCode from './Component/RsetCode'; 
 import  ResetPassword from './Component/ResetPassword'; 
