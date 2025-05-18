@@ -17,10 +17,10 @@ This project is the UI for browsing products, managing a cart, and simulating ch
 ## 🧰 Tech Stack
 
 - ⚛️ **React.js** – Frontend library
-- 🎨 **CSS / Tailwind / Styled-Components** (based on what you used)
-- 🔁 **Axios / Fetch** – API integration (if any)
-- 🧭 **React Router** – Client-side routing
-- 🛒 Local State or Redux – (if used for cart)
+- 🎨 **CSS / Tailwind / Styled-Components** 
+- 🔁 **Axios / Fetch**
+- 🧭 **React Router** 
+- 🛒 Local State or Redux
 
 ---
 
