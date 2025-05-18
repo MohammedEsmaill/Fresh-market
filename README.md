@@ -29,5 +29,5 @@ This project is the UI for browsing products, managing a cart, and simulating ch
 > 📷 Add screenshots or GIFs here for homepage, product list, cart, etc.
 
 ```md
-![Home Page](./assets/home.png)
-![Cart Page](./assets/cart.png)
+![Home Page](./src/assets/finalProject assets/screens/homepage.png)
+![product Page](./src/assets/finalProject assets/screens/productdetails.png)
