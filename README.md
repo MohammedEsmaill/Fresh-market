@@ -31,5 +31,3 @@ This project is the UI for browsing products, managing a cart, and simulating ch
 ```md
 ![Home Page](./src/assets/finalProject assets/screens/homepage.png)
 ![product Page](./src/assets/finalProject assets/screens/productdetails.png)
-![Home Page](./src/assets/finalProject assets/screens/homepage.png)
-![product Page](./src/assets/finalProject assets/screens/productdetails.png)
